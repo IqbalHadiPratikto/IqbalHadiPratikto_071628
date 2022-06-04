@@ -5,7 +5,7 @@ Created on Sat Jun  4 09:51:28 2022
 @author: LENOVO
 """
 
-#Hari Pertama#
+#Hari Pertama SESI 1#
 
 #print(123123123123123123123123123123123123123123123123 + 1)
 
@@ -94,4 +94,3 @@ Created on Sat Jun  4 09:51:28 2022
 #print(s + t)
 #print(s + t + u)
 #print('Hacktiv8 ' + 'PTP')
-
